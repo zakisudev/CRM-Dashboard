@@ -34,7 +34,7 @@ To get started with this project, follow the instructions below.
 2. Modify the styles in styles/style.css to customize the appearance.
 3. Update the JavaScript in scripts/script.js to add or change functionality.
 
-**\*_ File Descriptions _**
+**_ File Descriptions _**
 
 - index.html: The main HTML file for the dashboard.
 - styles/style.css: The CSS file containing styles for the dashboard.
@@ -60,7 +60,7 @@ If you would like to contribute to this project, please follow these steps:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-**_ Acknowledgements_**
+**_ Acknowledgements _**
 
 Font: Poppins
 Icons: Font Awesome
