@@ -4,7 +4,11 @@ This project is a web-based dashboard application that provides a user interface
 
 ## Project Structure
 
-assets/ images/ index.html README.md scripts/ script.js styles/ style.css
+- assets/ images/
+- scripts/ script.js
+- styles/ style.css
+- index.html
+- README.md
 
 ## Getting Started
 
