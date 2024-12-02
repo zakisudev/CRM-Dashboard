@@ -20,12 +20,12 @@ To get started with this project, follow the instructions below.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/dashboard-project.git
+   git clone https://github.com/zakisudev/CRM-Dashboard
    ```
 
 2. Navigate to the directory
    ```sh
-   cd dashboard-project
+   cd CRM-Dashboard
    ```
 
 **_ Usage _**
@@ -47,6 +47,7 @@ To get started with this project, follow the instructions below.
 - Custom Fonts: The project uses the "Poppins" font family with various weights and styles.
 
 **_ Contributing _**
+
 If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
@@ -56,8 +57,10 @@ If you would like to contribute to this project, please follow these steps:
 5. Create a pull request.
 
 **_ License _**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **_ Acknowledgements_**
+
 Font: Poppins
 Icons: Font Awesome
